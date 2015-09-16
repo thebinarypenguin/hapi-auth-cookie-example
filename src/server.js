@@ -3,7 +3,7 @@ var Handlebars = require('handlebars');
 var Hapi       = require('hapi');
 var Path       = require('path');
 var Vision     = require('vision');
-var Pkg        = require('./package.json');
+var Pkg        = require('../package.json');
 
 // Create a hapi server
 var server = new Hapi.Server();
