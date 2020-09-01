@@ -5,6 +5,6 @@
     "hapi-auth-cookie": "~3.1.0",
     "handlebars": "~4.0.2",
     "vision": "~3.0.0",
-    "hapi": "~10.0.0"
+    "hapi": "~18.1.0"
   }
 }
